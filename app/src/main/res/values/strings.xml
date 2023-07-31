@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI計算機</string>
+    <string name="tv_title">BMI計算機</string>
+    <string name="tv_age">年齢</string>
+    <string name="tv_height">身長</string>
+    <string name="tv_weight">体重</string>
+    <string name="tv_old">歳</string>
+    <string name="tv_cm">cm</string>
+    <string name="tv_kg">kg</string>
+    <string name="bt_calculation">計算</string>
+    <string name="bt_clear">クリア</string>
+    <string name="dialog_btn_ok" >確認</string>
+    <string name="dialog_msg" >年齢が16歳未満のため、適切な肥満度を求めることができませんでした。</string>
+    <string name="dialog_title">警告</string>
+    <string name="tb_toolbar">BMI計算機</string>
+</resources>
